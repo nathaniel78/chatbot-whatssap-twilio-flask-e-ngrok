@@ -92,7 +92,7 @@ Realizei os teste criando uma VM no virtualbox com o ubuntu, instalei pip3, venv
 ### Monitorar o terminais screen
 - #screen -r nome_ou_id_screen
 
-# No final estiver tudo ok você pode realizar o teste com o chatbot do twilio que vai aparecer no seu whattsap. Fazendo alguns ajustes dá para conectar a outras api realizando consulta
+# Caso tenha dado tudo certo você pode realizar o teste com o chatbot do twilio que vai aparecer no seu whattsap, consulte uma palavra e ele vai retornar as informações sobre aquela palavra consultando o dicionário online. Fazendo alguns ajustes dá para conectar a outras api realizando consulta
 
 # Dicas e sites:
 - https://chatterbot.readthedocs.io/en/stable/setup.html
